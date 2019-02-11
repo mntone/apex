@@ -119,7 +119,7 @@ The statistics I will present for each gun are:
 | Leg/Body/Head DMG | 10.8/12/18 | 9.9/11/16 | 40.4/45/90 |
 | Rounds per Minute | 430.2 | 750 | 205.2 |
 | Optimal DPS | 86.04 | 137.5 | 153.9 |
-| Ammo type | Light | Heavy | Light |
+| Ammo type | Light | Heavy | Heavy |
 | Mag size | 10 | 15 | 6 |
 | Tactical/Full Reload | 1.25s/1.25s | 1.75s/2.12s | 2.10s/2.10s |
 | Fire modes | Auto | Auto | Single |
